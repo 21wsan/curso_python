@@ -1,0 +1,21 @@
+# Directorios de Python generados por la máquina virtual
+__pycache__/
+
+# Archivos de la máquina virtual de Python
+*.pyc
+*.pyo
+
+# Directorios de entorno virtual
+venv/
+env/
+
+# Archivos de entorno y de configuración
+.env
+
+# Archivos del sistema operativo (macOS, Windows, etc.)
+.DS_Store
+Thumbs.db
+
+# Archivos de registro y caché
+*.log
+.vscode/
